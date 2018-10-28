@@ -1,3 +1,7 @@
+# 256
+
+![screenshot](256.png)
+
 This is small utility which shows 256 colors of B_CMAP8 color space. It can be used when you want to know how colors of this color space are looked. Since program is distributed with sources you can use it for learning and demo purposes.
 
 Click on one color with mouse left button. Alert window with number of this color will appear. Both decimal and hexadecimal numbers are shown.
